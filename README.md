@@ -22,17 +22,17 @@
 联系电话：15636068691  
 邮箱：fuxiuyang@donews.com  
 面试问题：  
-1.部署
-2.闭包
-3.http协议、tcp协议、udp等
-4.用es6实现链表数据结构
-5.export和module.export的区别
-6.使用原生js实现拷贝
-7.js的继承是如何实现的
-8.node未知错误处理
-9.setimeout(),setlmmedate(),process.nextTick()执行优先级
-10.mongodb原子操作
+1.部署  
+2.闭包  
+3.http协议、tcp协议、udp等  
+4.用es6实现链表数据结构  
+5.export和module.export的区别  
+6.使用原生js实现拷贝  
+7.js的继承是如何实现的  
+8.node未知错误处理  
+9.setimeout(),setlmmedate(),process.nextTick()执行优先级  
+10.mongodb原子操作  
 
-2017.09.27 16:00
-阿尔金金融有限公司 node开发工程师
-地点：石景山区石景山路
+2017.09.27 16:00  
+阿尔金金融有限公司 node开发工程师  
+地点：石景山区石景山路  
